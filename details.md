@@ -1,5 +1,6 @@
-####Game Details
-######(Subject to Change)
+
+## Game Details
+### (Subject to Change)
 ----
 
 * 2 player local multiplayer
